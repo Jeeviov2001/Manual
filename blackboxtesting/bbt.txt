@@ -1,0 +1,1 @@
+Black box testing is also called specified based testing which doesnot know the internal structure of the software or the product.
