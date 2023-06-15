@@ -1,6 +1,8 @@
 API testing is a testing of Application programing interface is tested to verify the expectation matches the features, security, realiability and performances.
 postman is a API platform for building and using API
+
 Edit 1
 Edit 2
 Edit 3
 Edit 4
+Edit 5
